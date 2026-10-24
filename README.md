@@ -91,5 +91,7 @@ tools/                 # GIF and screenshot generators
 
 Tüm parametreler arayüzden girilir ve sonuçlar grafik ve tablolarla gösterilir. Çalıştırmak için: `pip install -r requirements.txt` ve ardından `python main.py`.
 
-## License
+## License    
+## Author
+   **Serkan Gedik** · [GitHub](https://github.com/serkngdk06) · [LinkedIn](https://www.linkedin.com/in/serkan-gedik-064879229/)
 MIT. See [LICENSE](LICENSE).
